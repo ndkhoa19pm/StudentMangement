@@ -1,0 +1,3 @@
+D:\CongViec\CaNhan\StudentsManagement\StudentsManagement\x64\Debug\StudentsManagement.vcxproj.AssemblyReference.cache
+D:\CongViec\CaNhan\StudentsManagement\StudentsManagement\x64\Debug\StudentsManagement.MainForm.resources
+D:\CongViec\CaNhan\StudentsManagement\StudentsManagement\x64\Debug\StudentsManagement.vcxproj.GenerateResource.cache
